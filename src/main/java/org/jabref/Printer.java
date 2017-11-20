@@ -1,5 +1,7 @@
 class Printer
 {
 	public Printer(){}
-	public void status(){}
+	public boolean status(){
+		return true;
+	}
 }
